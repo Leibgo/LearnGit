@@ -1,2 +1,3 @@
 TALK IS CHEAP SHOW ME THE CODE ----BY Linus
 Loubei is a programmer
+Creating a new Branch is so quick
