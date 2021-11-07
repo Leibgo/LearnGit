@@ -4,3 +4,4 @@ Creating a new Branch is so quick
 Oh nana what is my name --rihanna
 this is dev branch.
 wuyuqing
+i start git repository in linux.
