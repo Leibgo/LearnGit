@@ -7,6 +7,7 @@ wuyuqing
 i start git repository in linux.
 loubei make a conflict
 new branch in linux.
-LOUBEI
+LOUBEI。
 WUYUQING
 先commit 再 pull 最后push
+有一个改变
